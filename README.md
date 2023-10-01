@@ -16,4 +16,5 @@ I'm a curious person who's into both digital and real-world things, and my journ
 
 ### Contact
 [My Linkedin](https://www.linkedin.com/in/andreas-ulvund-98066376/)
+<br>
 [My portfolio](https://flourishing-truffle-62886f.netlify.app/)
