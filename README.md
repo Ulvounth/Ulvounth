@@ -7,13 +7,13 @@ On the other hand, I'm also into real-life stuff, like football and golf. Whethe
 
 I'm a curious person who's into both digital and real-world things, and my journey into Front-end Development is pretty awesome.
 
-<h2>Languages and Tools</h2>
+### Languages and Tools
 - HTML
 - CSS
 - Javascript
 - Github
 - Visual Studio Code
 
-<h2>Contact</h2>
+### Contact
 - [My Linkedin](https://www.linkedin.com/in/andreas-ulvund-98066376/)
 - [My portfolio](https://flourishing-truffle-62886f.netlify.app/)
