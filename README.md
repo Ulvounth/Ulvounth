@@ -15,5 +15,5 @@ I'm a curious person who's into both digital and real-world things, and my journ
 - Visual Studio Code
 
 ### Contact
-- [My Linkedin](https://www.linkedin.com/in/andreas-ulvund-98066376/)
-- [My portfolio](https://flourishing-truffle-62886f.netlify.app/)
+[My Linkedin](https://www.linkedin.com/in/andreas-ulvund-98066376/)
+[My portfolio](https://flourishing-truffle-62886f.netlify.app/)
