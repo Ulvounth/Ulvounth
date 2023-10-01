@@ -5,4 +5,4 @@ I'm originally from Norway, but right now, I'm living in Spain and learning Fron
 
 On the other hand, I'm also into real-life stuff, like football and golf. Whether it's watching an exciting game or playing a round of golf, these sports bring balance and excitement to my life.
 
-In a nutshell, I'm a curious person who's into both digital and real-world things, and my journey into Front-end Development is pretty awesome.
+I'm a curious person who's into both digital and real-world things, and my journey into Front-end Development is pretty awesome.
