@@ -15,6 +15,8 @@ I'm a curious person who's into both digital and real-world things, and my journ
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ulvounth?tab=repositories](https://github.com/Ulvounth?tab=repositories)
 
+- Link to my portfolio website: [Portfolio](https://andreasulvund-portfolio.netlify.app/)
+
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **ulvund_a@hotmail.com**
