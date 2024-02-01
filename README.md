@@ -1,7 +1,7 @@
 # Hello world! I am Andreas, presently pursuing a Front-end Development program at Noroff
 
 ## About me
-I'm originally from Norway, but right now, I'm living in Spain and learning Front-end Development. When I'm not coding, I'm a big computer geek – always checking out new tech and software. I'm also a gamer, and I enjoy getting lost in virtual worlds and having exciting adventures.
+34 year old guy from Norway, currently studying Front-end Development at Noroff. When I'm not coding, I'm a big computer geek – always checking out new tech and software. I'm also a gamer, and I enjoy getting lost in virtual worlds and having exciting adventures.
 
 On the other hand, I'm also into real-life stuff, like football and golf. Whether it's watching an exciting game or playing a round of golf, these sports bring balance and excitement to my life.
 
