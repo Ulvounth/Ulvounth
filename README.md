@@ -9,7 +9,7 @@ I'm a curious person who's into both digital and real-world things, and my journ
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulvounth&label=Profile%20views&color=0e75b6&style=flat" alt="ulvounth" /> </p>
 
-- 🔭 I’m currently working on where I improve the quality of a package by establishing helpful workflows that make the development process more efficient. Using tools like ESlint, prettier, commit hook, Jest and Cypress.
+- 🔭 I’m currently working on my Semester Project 2, where the goal is to to take the skills learned over the past three semesters and create an auction website.
 
 - 🌱 I’m currently learning **CSS Frameworks, Javascript, testing with Jest & Cypress**
 
