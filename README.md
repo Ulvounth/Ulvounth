@@ -9,7 +9,7 @@ I'm a curious person who's into both digital and real-world things, and my journ
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulvounth&label=Profile%20views&color=0e75b6&style=flat" alt="ulvounth" /> </p>
 
-- 🔭 I’m currently working on my Semester Project 2, where the goal is to to take the skills learned over the past three semesters and create an auction website.
+- 🔭 I’m currently working on Industry Knowledge, to work in a larger team environment and become actively involved in the success of a real world open source project.
 
 - 🌱 I’m currently learning **CSS Frameworks, Javascript, testing with Jest & Cypress**
 
