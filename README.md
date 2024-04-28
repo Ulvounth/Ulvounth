@@ -11,7 +11,7 @@ I'm a curious person who's into both digital and real-world things, and my journ
 
 - 🔭 I’m currently working on Industry Knowledge, to work in a larger team environment and become actively involved in the success of a real world open source project.
 
-- 🌱 I’m currently learning **CSS Frameworks, Javascript, testing with Jest & Cypress**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ulvounth?tab=repositories](https://github.com/Ulvounth?tab=repositories)
 
