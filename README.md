@@ -9,7 +9,7 @@ I'm a curious person who's into both digital and real-world things, and my journ
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulvounth&label=Profile%20views&color=0e75b6&style=flat" alt="ulvounth" /> </p>
 
-- 🔭 I’m currently working on Javascript Frameworks.
+- 🔭 I’m currently working on Project Exam.
 
 - 🌱 I’m currently learning **React**
 
