@@ -1,21 +1,19 @@
 # Hello world! I am Andreas, presently pursuing a Front-end Development program at Noroff
 
 ## About me
-34 year old guy from Norway, currently studying Front-end Development at Noroff. When I'm not coding, I'm a big computer geek – always checking out new tech and software. I'm also a gamer, and I enjoy getting lost in virtual worlds and having exciting adventures.
+34 year old guy from Norway. I just wrapped up my Front-End Development studies at Noroff and now I’m jumping into Back-End Development. I’m a bit of a tech geek—I’m always playing around with new gadgets and software. I’m also a gamer at heart and love spending time in virtual worlds.
 
 On the other hand, I'm also into real-life stuff, like football and golf. Whether it's watching an exciting game or playing a round of golf, these sports bring balance and excitement to my life.
 
-I'm a curious person who's into both digital and real-world things, and my journey into Front-end Development is pretty awesome.
+I’ve got a curious mind, always learning, and I’m excited about this next step in my development journey.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulvounth&label=Profile%20views&color=0e75b6&style=flat" alt="ulvounth" /> </p>
 
-- 🔭 I’m currently working on Project Exam.
-
-- 🌱 I’m currently learning **React**
+- 🔭 Right now, I’m just getting started with Back-end Development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ulvounth?tab=repositories](https://github.com/Ulvounth?tab=repositories)
 
-- Link to my portfolio website: [Portfolio](https://andreasulvund-portfolio.netlify.app/)
+- Link to my portfolio website: [Portfolio](https://andreasulvund.netlify.app/)
 
 - 💬 Ask me about **Anything**
 
