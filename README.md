@@ -1,7 +1,7 @@
 # Hello world! I am Andreas, presently pursuing a Front-end Development program at Noroff
 
 ## About me
-34 year old guy from Norway. I just wrapped up my Front-End Development studies at Noroff and now I’m jumping into Back-End Development. I’m a bit of a tech geek—I’m always playing around with new gadgets and software. I’m also a gamer at heart and love spending time in virtual worlds.
+35 year old guy from Norway. I just wrapped up my Front-End Development studies at Noroff and now I’m jumping into Back-End Development. I’m a bit of a tech geek—I’m always playing around with new gadgets and software. I’m also a gamer at heart and love spending time in virtual worlds.
 
 On the other hand, I'm also into real-life stuff, like football and golf. Whether it's watching an exciting game or playing a round of golf, these sports bring balance and excitement to my life.
 
