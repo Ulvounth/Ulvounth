@@ -27,7 +27,7 @@ I’ve got a curious mind, always learning, and I’m excited about this next st
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **ulvund_a@hotmail.com**
+- 📫 How to reach me **contact@andreasulvund.no**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/andreas-ulvund-98066376/](https://www.linkedin.com/in/andreas-ulvund-98066376/)
 
