@@ -1,9 +1,19 @@
 # Hello world! I am Andreas, presently pursuing a Back-end Development program at Noroff
 
 ## About me
-35 year old guy from Norway. I just wrapped up my Front-End Development studies at Noroff and now I’m jumping into Back-End Development. I’m a bit of a tech geek—I’m always playing around with new gadgets and software. I’m also a gamer at heart and love spending time in virtual worlds.
+Hi, I'm Andreas! Originally from Norway, I'm now living in Spain where I've been diving deep into front-end development. I recently wrapped up my studies in front-end, mastering technologies such as HTML, CSS, JavaScript, and React.
 
-On the other hand, I'm also into real-life stuff, like football and golf. Whether it's watching an exciting game or playing a round of golf, these sports bring balance and excitement to my life.
+In October 2024, I started my journey into back-end development. So far, I have learned:
+
+- Programming with Objects
+- JavaScript servers (Node.js, Express)
+- Databases (SQL, MongoDB)
+
+Soon, I'll expand my skills further by delving into REST APIs (which I already know some of from my front-end studies) and server deployment.
+
+I also recently completed a two-month internship at Frakt24. During this internship, I helped design their new app using Figma and gained hands-on experience with their codebase using Laravel and PHP. Working with tools such as Jira, Google Meet, Google Chat, and HubSpot, I gained valuable experience collaborating in a real-world team environment.
+
+When I'm not coding, I'm passionate about technology and love exploring the latest tools and gadgets. You'll often find me playing football, enjoying a round of golf, or getting lost in a great video game.
 
 I’ve got a curious mind, always learning, and I’m excited about this next step in my development journey.
 
