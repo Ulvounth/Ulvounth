@@ -23,7 +23,7 @@ I’ve got a curious mind, always learning, and I’m excited about this next st
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ulvounth?tab=repositories](https://github.com/Ulvounth?tab=repositories)
 
-- Link to my portfolio website: [Portfolio](https://andreasulvund.netlify.app/)
+- Link to my portfolio website: [Portfolio](https://andreasulvund.no/)
 
 - 💬 Ask me about **Anything**
 
