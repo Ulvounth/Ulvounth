@@ -3,14 +3,10 @@
 ## About me
 Hi! I'm from Norway and live in Spain. I finished front‑end at Noroff and now I’m in year 2 of back‑end. I like simple, fast solutions and clean code.
 
-- **Current focus:** Cloud services (AWS, Azure), Docker, Kubernetes  
+- **Current focus:** Back-end Technologies 
 - **Main stack:** TypeScript/JavaScript, Node.js, Express, React/Next.js, Tailwind CSS  
-- **Goal for 2025-2026:** Build solid back-end projects with tests, CI/CD, and cloud deploys
+- **Goal for 2026:** Build solid back-end projects with tests, CI/CD, and cloud deploys
 
-## What I’m doing right now
-- Studying **Cloud Services** (AWS, Azure, serverless and containers)
-- Learning **Docker** (images, volumes, compose) and **Kubernetes** (pods, deployments, services)
-- Improving database design and REST APIs
 
 ## Noroff – Courses
 
@@ -36,8 +32,8 @@ Hi! I'm from Norway and live in Spain. I finished front‑end at Noroff and now 
 ## Skills
 **Languages:** TypeScript, JavaScript, SQL  
 **Back-end:** Node.js, Express, REST, Auth, JWT  
-**Front-end:** React, Next.js (App Router), Tailwind CSS  
-**Databases:** PostgreSQL, MySQL, MongoDB  
+**Front-end:** React, Next.js, Tailwind CSS  
+**Databases:** PostgreSQL, MySQL, MongoDB, Supabase
 **Testing/Quality:** Jest, React Testing Library, ESLint, Prettier  
 **Cloud & DevOps:** Docker, Docker Compose, Kubernetes (basics), GitHub Actions, Vercel, Netlify  
 **Tools:** Git, GitHub, Figma, Postman/Insomnia, Jira
